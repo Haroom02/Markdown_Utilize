@@ -14,6 +14,6 @@ ex) 안녕하세요'   ' <- 줄바꿈 공간
 이 표시를 원하는 위치에 사용하면 줄바꿈이 된다.
 
 
-<span style="color.red"></span> : 색상 <- 편집시 확인가능
+<span style="color.red"></span> : 색상 <- 편집시 확인가능  
 <span style='background-color:#fff5b1'></span> : 형광펜 <- 편집시 확인가능
 
